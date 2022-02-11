@@ -1,0 +1,14 @@
+{
+    "start": "./mvnw spring-boot:run",
+    "watch": {
+      "throttle": 500,
+      "install": {
+        "include": [
+          "^pom\\.xml$",
+          "\\.java$"
+        ]
+      }
+    }
+  }
+  
+  
