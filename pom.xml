@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.sda4sda</groupId>
-	<artifactId>beliefsapp.svc</artifactId>
+	<artifactId>beliefs.svc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Adventists Beliefs Domain Service</name>
 	<description>Business logic for the sda4sda Adventists Beliefs Domain.</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

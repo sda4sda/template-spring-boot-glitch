@@ -1,4 +1,4 @@
-package org.sda4sda.beliefsapp.svc;
+package org.sda4sda.beliefs.svc;
 
 import java.util.concurrent.atomic.AtomicLong;
 
