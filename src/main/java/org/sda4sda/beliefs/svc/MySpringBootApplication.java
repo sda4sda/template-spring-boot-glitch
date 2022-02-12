@@ -1,4 +1,4 @@
-package org.sda4sda.beliefs.svc;
+package org.sda4sda.templates;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
