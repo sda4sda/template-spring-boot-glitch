@@ -11,8 +11,8 @@
 	<groupId>org.sda4sda</groupId>
 	<artifactId>template-spring-boot-glitch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Adventists Beliefs Domain Service</name>
-	<description>Core service logic for the sda4sda Adventists Beliefs Domain.</description>
+	<name>Template Spring Boot Service</name>
+	<description>Boilerplate for a Java Spring Boot service that can be hosted on Glitch.</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
