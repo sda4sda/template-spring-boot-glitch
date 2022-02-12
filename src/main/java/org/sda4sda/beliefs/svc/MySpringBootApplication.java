@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdventistsBeliefsDomainServiceApplication {
+public class MySpringBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AdventistsBeliefsDomainServiceApplication.class, args);
+		SpringApplication.run(MySpringBootApplication.class, args);
 	}
 
 }
