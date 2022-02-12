@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.sda4sda</groupId>
-	<artifactId>beliefs.svc</artifactId>
+	<artifactId>template-spring-boot-glitch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Adventists Beliefs Domain Service</name>
 	<description>Core service logic for the sda4sda Adventists Beliefs Domain.</description>
